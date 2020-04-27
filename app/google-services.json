@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053458678985",
+    "firebase_url": "https://corona-be431.firebaseio.com",
+    "project_id": "corona-be431",
+    "storage_bucket": "corona-be431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053458678985:android:85bf3731a91864d7103918",
+        "android_client_info": {
+          "package_name": "com.example.coronastop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053458678985-28v4haam1re95r02cls0khbdfpo59mnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi3XkYtvvwZxWuXIcOc602s4G5fh-Vu3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053458678985-28v4haam1re95r02cls0khbdfpo59mnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
