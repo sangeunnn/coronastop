@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <Button
-        android:id="@+id/button"
+    <ImageView
+        android:id="@+id/img"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="내위치 확인하기"
-        />
+        app:srcCompat="@drawable/art" />
 
-    <textView
-        android:id="@+id/textView"
+    <Button
+        android:id="@+id/upload"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        class="com.google.android.gms.maps.SupportMapFragment" />
-
-
+        android:layout_height="wrap_content"
+        android:text="upload" />
 </LinearLayout>
