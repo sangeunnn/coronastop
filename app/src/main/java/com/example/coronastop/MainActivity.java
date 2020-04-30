@@ -201,7 +201,7 @@ public class MainActivity extends AppCompatActivity {
         Date TargetDate = new Date(target);
         String TargetTime = format1.format(TargetDate);
         LocationManager manager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-        System.out.println("시작했어유");
+        boolean iscorona = false;
 
         try {
             final Location location = manager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
@@ -221,12 +221,16 @@ public class MainActivity extends AppCompatActivity {
                             destLocation.setLongitude(deslatitude);
                             int distance = (int)(location.distanceTo(destLocation));
                             if (distance < 500) {
-                                showNoti();
+                                boolean iscorona = true;
                             }
                         }
                     }
                 }
             });
+            if(iscorona == true){
+                showNoti();
+                iscorona = false;
+            }
             GPSListener gpsListener = new GPSListener();
             long minTime = 10000;   //최소시간 10초
             float minDistance = 0;  //최소거리 0
