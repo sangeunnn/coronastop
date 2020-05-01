@@ -2,13 +2,13 @@
 
 #### ENV:
 
-​			Android 8+ 
+			Android 8+ 
 
-​			Android Device or Android Simulator
+			Android Device or Android Simulator
 
 #### Need:
 
-​			Modify google Map Key in Manifest
+			Modify google Map Key in Manifest
 
 #### Function:
 
@@ -58,7 +58,6 @@
 <br>
 <br>
 <br>
-<br>
 <img src="/img/main.png" align ="left" alt="main" width="300" height="500"/>**[MainActivty]**
 
 1.FIND ME Button
@@ -74,10 +73,7 @@ Send a push alarm.
 <br>  
 <br>  
 <br>  
-<br>  
-<br>  
-<br>  
-<br>  
+<br>   
 <img src="/img/upload.png" align="left" alt="upload" width="300" height="500"/>**[uploadActivty]**
 
 1.Select medical Certificate image
