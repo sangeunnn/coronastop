@@ -21,17 +21,17 @@
 3. Login Button 
 
 4. Register Button
-###           
-###  
-###  
-###  
-### 
-###  
-###  
-###  
-###  
-###  
-###  
+##           
+##  
+##  
+##  
+## 
+##  
+##  
+##  
+##  
+##  
+##  
 <img src="/img/register.png" align="left" alt="register" width="300" height="500"/>**[RegisterActivity]**
 
 1.Enter the ID you want.
