@@ -34,8 +34,8 @@
 <br>
 <br>
 <br>
-<img src="/img/register.png" align="right" alt="register" width="300" height="500"/> **RegisterActivity**
-
+<img src="/img/register.png" align="right" alt="register" width="300" height="500"/>
+**RegisterActivity**
 1.Enter the ID you want.
   
 2.Confirm ID duplication
@@ -80,7 +80,8 @@ Send a push alarm.
 <br>
 <br>
 
-<img src="/img/upload.png" align="right" alt="upload" width="300" height="500"/>**uploadActivty**
+<img src="/img/upload.png" align="right" alt="upload" width="300" height="500"/>
+**uploadActivty**
 
 1.Select medical Certificate image
 
@@ -90,7 +91,7 @@ Select a medical certificate from the gallery.
   
 2.Upload Image to FireStorage(**Unimplemented**)
   
-Send user's certificate to Firebase Storage. The manager checks the authenticity of the medical certificate and uploads the movement to the patient database**[Unimplemented]**. In the future, this function can be replaced by the vision API.**But now It goes directly to the database without checking for authenticity.**
+Send user's certificate to Firebase Storage. The manager checks the authenticity of the medical certificate and uploads the movement to the patient database[ **Unimplemented** ]. In the future, this function can be replaced by the vision API.**But now It goes directly to the database without checking for authenticity.**
   
 
 
