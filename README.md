@@ -12,7 +12,7 @@
 
 #### Function:
 
-<img src="/img/login.png" align="right" alt="login" style="zoom:25%;" />**[loginActivity]**
+<img src="/img/login.png" align="right" alt="login" width="200" height="500" />**[loginActivity]**
 
   1.  ID
 
@@ -42,7 +42,7 @@
 
 
 
-<img src="/img/register.png" align="left" alt="register" style="zoom:25%;"  />**[RegisterActivity]**
+<img src="/img/register.png" align="left" alt="register" width="100" height="300"/>**[RegisterActivity]**
 
 1.Enter the ID you want.
 
@@ -70,7 +70,7 @@
 
 
 
-<img src="/img/main.png" align ="right" alt="main" style="zoom:25%;" />**[MainActivty]**
+<img src="/img/main.png" align ="right" alt="main" width="200" height="400" />**[MainActivty]**
 
 1.FIND ME Button
 
@@ -101,7 +101,7 @@ Send a push alarm.
 
 
 
-<img src="/img/upload.png" align="left" alt="upload" style="zoom:25%;" />**[uploadActivty]**
+<img src="/img/upload.png" align="left" alt="upload" width="200" height="400"/>**[uploadActivty]**
 
 1.Select medical Certificate image
 
