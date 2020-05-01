@@ -16,10 +16,10 @@
 
 [**loginActivity**]
 
-1. ID
+1. ID  
 	Input Your ID
 
-2. Password
+2. Password  
 	Input Your Password
 
 3. Login Button 
