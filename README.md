@@ -12,7 +12,9 @@
 
 #### Function:
 
-<img src="/img/login.png" align="left" alt="login" width="300" height="500" />**loginActivity**
+<img src="/img/login.png" align="left" alt="login" width="300" height="500" />
+
+[**loginActivity**]
 
   1.  ID
 
