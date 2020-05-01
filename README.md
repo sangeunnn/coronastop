@@ -21,7 +21,7 @@
 3. Login Button 
 
 4. Register Button
-#
+######
 #
 #
 #
