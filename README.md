@@ -34,7 +34,7 @@
 <br>
 <br>
 <br>
-<img src="/img/register.png" align="left" alt="register" width="300" height="500"/> **[RegisterActivity]**
+<img src="/img/register.png" align="left" alt="register" width="300" height="500"/> ** [RegisterActivity] **
 
 1.Enter the ID you want.
   
@@ -45,6 +45,9 @@
 4.Confirm Password
   
 5.Register Button
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -80,10 +83,10 @@ Send a push alarm.
 <br>  
 <br>  
 <br>  
-  
-  
-  
-  
+<br>  
+<br>  
+<br>  
+<br>  
   
 <img src="/img/upload.png" align="left" alt="upload" width="300" height="500"/>**[uploadActivty]**
 
