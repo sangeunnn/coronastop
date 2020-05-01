@@ -34,7 +34,7 @@
 <br>
 <br>
 <br>
-<img src="/img/register.png" align="left" alt="register" width="300" height="500"/>**[RegisterActivity]**
+<img src="/img/register.png" align="left" alt="register" width="300" height="500"/> **[RegisterActivity]**
 
 1.Enter the ID you want.
   
@@ -45,23 +45,15 @@
 4.Confirm Password
   
 5.Register Button
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <img src="/img/main.png" align ="left" alt="main" width="300" height="500"/>**[MainActivty]**
 
 1.FIND ME Button
@@ -74,20 +66,20 @@
   
 Check the user's location every 10 minutes, and if the user exists within 500 meters around the corona patient movement,
 Send a push alarm.
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
   
   
   
