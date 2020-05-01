@@ -76,7 +76,11 @@ Send a push alarm.
 <br>
 <br>
 <br>
-<img src="/img/upload.png" align="left" alt="upload" width="300" height="500"/>**[uploadActivty]**
+<br>
+<br>
+<br>
+
+<img src="/img/upload.png" align="right" alt="upload" width="300" height="500"/>**[uploadActivty]**
 
 1.Select medical Certificate image
 
