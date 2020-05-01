@@ -35,6 +35,7 @@
 <br>
 <br>
 <img src="/img/register.png" align="right" alt="register" width="300" height="500"/>
+
 [**RegisterActivity**]
 
 1.Enter the ID you want.
@@ -82,7 +83,8 @@ Send a push alarm.
 <br>
 
 <img src="/img/upload.png" align="right" alt="upload" width="300" height="500"/>
-[**uploadActivty**]
+
+[**UploadActivty**]
 
 1.Select medical Certificate image
 
