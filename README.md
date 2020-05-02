@@ -99,8 +99,12 @@ Select a medical certificate from the gallery.
 2.Upload Image to FireStorage(**Unimplemented**)
   
 Send user's certificate to Firebase Storage. The manager checks the authenticity of the medical certificate and uploads the movement to the patient database[**Unimplemented**]. In the future, this function can be replaced by the vision API.**But now It goes directly to the database without checking for authenticity.**
-  
 
+
+<img src="https://user-images.githubusercontent.com/48400820/80858309-98365480-8c93-11ea-92f1-4274eec364eb.jpg" align="left" alt="result" width="300" height="500"/>
+[**Result Image**]
+  
+for uploaded data, map is marked with pins shows the route of confirmers, appearing with different color depending on date.
 
 
 
