@@ -66,6 +66,7 @@
 <br>
 <img src="/img/main.png" align ="left" alt="main" width="300" height="500"/>[**MainActivty**]
 
+<BUTTON>
 1.FIND ME Button
   
 ​	It shows your location and the corona patient's movement.
@@ -78,6 +79,9 @@ Check the user's location every 10 minutes, and if the user exists within 500 me
 Send a push alarm.
 <br>  
 <br>  
+
+<MAP>
+
 <br>  
 <br>
 <br>
